@@ -1,0 +1,47 @@
+GIT COMMANDS:
+touch file name
+vim file name (content storer and to edit the data)
+cat (content reader)
+rm (to delete the file)
+mkdir (directory name) to create the folder or directory
+rmdir (directory name) to delete the folder or directory
+clear to empty the screen
+cd (directory name) to enter inside the directory or folder
+cd .. to enter outside the directory or folder
+history to view our history commands
+git clone url
+git add file name or .
+git commit -m "add any subject or commit"
+git push
+git checkout -b "master" to create a master file in git hub
+touch 
+vim
+git add file name
+git commit -m "add any commit"
+git remote add origin url
+git push origin master
+
+
+Maven commands:
+
+git clone url
+cd directory
+mvn archetype:generate
+enter any number:3
+again enter any number: 3
+group id: xyz.com
+artifact id: com.xyz
+anapshot id:xyz
+output type: war
+y:y
+
+and then the pom.xml file be cretaed then next,
+
+mvn clean
+mvn compile
+mvn test
+mvn package
+mvn install
+mvn deploy
+
+
